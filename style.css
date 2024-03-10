@@ -39,7 +39,7 @@
     }
     
     .land header nav .logo {
-        background-image: url(./imgs/test.png);
+        background-image: url(./test.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center center;
@@ -315,7 +315,7 @@
     }
     
     .flip-card:nth-child(2) .flip-card-back:last-child {
-        background-image: url(./imgs/card2.jpg);
+        background-image: url(./card2.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -323,7 +323,7 @@
     }
     
     .flip-card:nth-child(3) .flip-card-back:last-child {
-        background-image: url(./imgs/card3.jpg);
+        background-image: url(./card3.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -336,7 +336,7 @@
     }
     
     .contact-us .background {
-        background: url(./imgs/contact-us.jpg)center center no-repeat;
+        background: url(./contact-us.jpg)center center no-repeat;
         background-size: cover;
         min-height: 200px;
         border-radius: 10px;
